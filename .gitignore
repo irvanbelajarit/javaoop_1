@@ -37,3 +37,5 @@ hs_err_pid*
 /MethodOverloading/build/
 /ConstructorOverloading/nbproject/private/
 /ConstructorOverloading/build/
+/StaticMembers/nbproject/private/
+/StaticMembers/build/
